@@ -1,6 +1,10 @@
-### Olá! Me chamo Iohan Trézze 👋
+## Olá! Me chamo Iohan Trézze 👋
 
-## Que bom ver você por aqui!
+### Que bom ver você por aqui!
+
+<div id="header" align="center">
+  <img src="https://giphy.com/stickers/AppsFlyer-workhard-appsflyer-lifeatappsflyer-Lg6vO9CNlQmUna1c5i">" width="100"/>
+</div>
 
 Sou um desenvolvedor web Full Stack, graduando em Ciência da Computação, que ama programar e criar soluções para o cotidiano das pessoas.
  

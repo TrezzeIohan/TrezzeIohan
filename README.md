@@ -3,7 +3,7 @@
 ### Que bom ver você por aqui!
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/Lg6vO9CNlQmUna1c5i" width="100"/>
+  <img src="https://giphy.com/stickers/AppsFlyer-workhard-appsflyer-lifeatappsflyer-Lg6vO9CNlQmUna1c5i" width="100"/>
 </div>
 
 

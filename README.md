@@ -15,7 +15,7 @@
 Sou um desenvolvedor web Full Stack graduando em Ciência da Computação que ama programar e criar soluções para o cotidiano das pessoas.
 
 
-####Sobre mim:
+#### Sobre mim:
 
 - 🚀 Atualmente estou estudando Javascript;
 

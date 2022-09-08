@@ -1,11 +1,15 @@
 ### Olá! Me chamo Iohan Trézze 👋
 
-Sou um estudante de Ciência da Computação apaixonado por tecnologia e que sonha em melhorar o mundo por meio dela.
+## Que bom ver você por aqui!
+
+Sou um desenvolvedor web Full Stack, graduando em Ciência da Computação, que ama programar e criar soluções para o cotidiano das pessoas.
+ 
+
 
 
 - 🚀 Atualmente estou estudando para me tornar um programador Full Stack;
 
-- 💻 Tenho alguns projetos próprios em desenvolvimento visando a automatização de certas áreas do Direito;
+- 💻 Tenho alguns projetos próprios em desenvolvimento. Um deles visa a automatização de certas áreas do Direito;
 
 - 🏢 Meu desejo é contribuir para projetos que me permitam crescer como desenvolvedor enquanto ajudo a solucionar problemas por meio da tecnologia;
 

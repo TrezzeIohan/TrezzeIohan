@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="work.gif" width="100"/>
+  <img src="work.gif" width="200"/>
 </div>
 ## Olá! Me chamo Iohan Trézze 👋
 

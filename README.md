@@ -22,7 +22,7 @@ Sou um desenvolvedor web Full Stack graduando em Ciência da Computação que am
 - 💻 Tenho alguns projetos próprios em desenvolvimento. Um deles visa a automatização de certas áreas do Direito;
 
 - 🏢 Meu desejo é contribuir para projetos que me permitam crescer como desenvolvedor enquanto ajudo a solucionar problemas por meio da tecnologia;
-- 
+
 - 🍣  Amo comida japonesa;
 
 - 🎓 Curiosidade: Sou formado e pós graduado em Direito.

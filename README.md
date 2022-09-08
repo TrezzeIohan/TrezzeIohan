@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="work.gif" width="100"/>
+</div>
 ## Olá! Me chamo Iohan Trézze 👋
 
 ### Que bom ver você por aqui!

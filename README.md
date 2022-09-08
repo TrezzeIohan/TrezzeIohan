@@ -25,7 +25,7 @@ Sou um desenvolvedor web Full Stack graduando em Ciência da Computação que am
 
 - 🍣  Amo comida japonesa;
 
-- 🎓 Curiosidade: Sou formado e pós graduado em Direito.
+- 🎓 Curiosidade: Sou formado e pós graduado em Direito. Me apaixonei por programação e, depois de muito refletir, decidi trocar de área.
 
 
 

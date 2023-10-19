@@ -12,7 +12,7 @@
 
 
 
-Sou um desenvolvedor web Full Stack graduando em Ciência da Computação que ama programar e criar soluções para o cotidiano das pessoas.
+Sou um desenvolvedor FullStack que ama programar e criar soluções para o cotidiano das pessoas.
 
 
 #### Sobre mim:

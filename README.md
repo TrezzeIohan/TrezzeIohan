@@ -12,12 +12,14 @@
 
 
 
-Sou um desenvolvedor FullStack que ama programar e criar soluções para o cotidiano das pessoas.
+Sou um desenvolvedor FullStack que ama programar e criar soluções práticas e funcionais.
 
 
 #### Sobre mim:
 
-- 🚀 HTML, CSS, Javascript e Python;
+- Experiência Profissional com Desenvolvimento Fullstack e UX;
+
+- 🚀 javascript (Angular), C# e Python;
 
 - 💻 Tenho alguns projetos próprios em desenvolvimento. Um deles visa a automatização de certas áreas do Direito;
 

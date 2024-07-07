@@ -17,7 +17,7 @@ Sou um desenvolvedor FullStack que ama programar e criar soluções práticas e 
 
 #### Sobre mim:
 
-- 🚀  Experiência Profissional como Desenvolvedor Fullstack (Angular e C#) e UX;
+- 🚀  Experiência Profissional como Desenvolvedor Fullstack (Angular e C#) e UX Designer;
 
 - 💻 Tenho alguns projetos próprios em desenvolvimento. Um deles visa a automatização de certas áreas do Direito;
 

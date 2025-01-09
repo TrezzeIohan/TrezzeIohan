@@ -9,11 +9,12 @@ Sou um desenvolvedor **Web Fullstack** com sólida experiência em frameworks co
 
 Minha trajetória profissional inclui domínio de diversas linguagens e ferramentas, como:  
 - **Javascript/Typescript**  
-- **Flutter**  
-- **C**  
-- **Python**  
-- **HTML e CSS**  
-- **Bancos de Dados SQL**  
+- **C#**  
+- **Python**
+- **Bancos de Dados SQL e NoSQL**  
+- **Angular**
+- **Docker**    
+
 
 Também possuo experiência na **manutenção de sistemas de Inteligência Artificial conteinerizados via Docker**, garantindo **operação contínua**, **escalabilidade** e alinhamento com as demandas do negócio.  
 

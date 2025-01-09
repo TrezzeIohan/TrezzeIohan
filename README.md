@@ -8,24 +8,28 @@
 ### Que bom ver você por aqui!
 
 
+# Sobre Mim 👨‍💻
 
+Sou um desenvolvedor **Web Fullstack** com sólida experiência em frameworks como **Angular** e **.NET**, atuando no desenvolvimento de soluções tecnológicas alinhadas às melhores práticas de mercado.  
 
+Minha trajetória profissional inclui domínio de diversas linguagens e ferramentas, como:  
+- **Javascript/Typescript**  
+- **Flutter**  
+- **C**  
+- **Python**  
+- **HTML e CSS**  
+- **Bancos de Dados SQL**  
 
+Também possuo experiência na **manutenção de sistemas de Inteligência Artificial conteinerizados via Docker**, garantindo **operação contínua**, **escalabilidade** e alinhamento com as demandas do negócio.  
 
-Sou um desenvolvedor FullStack que ama programar e criar soluções práticas e funcionais.
+Com forte foco em **metodologias Agile**, prezo por processos colaborativos e eficientes, sempre buscando **inovação tecnológica** e **resultados consistentes**.  
 
+Tenho **inglês fluente**, com habilidades de comunicação avançadas que abrangem compreensão, conversação e dissertação sobre diversos temas. Sou reconhecido pela minha capacidade de **aprendizado rápido** e pela constante **evolução em novas tecnologias**.  
 
-#### Sobre mim:
+Além das competências técnicas, destaco minha **habilidade em gestão de pessoas** e meu excelente **relacionamento interpessoal**, cultivando um ambiente de trabalho colaborativo e respeitoso.  
 
-- 🚀  Experiência Profissional como Desenvolvedor Fullstack (Angular e C#) e UX Designer;
+💡 **Estou sempre em busca de novos desafios que me permitam aplicar minha criatividade e paixão por tecnologia para resolver problemas complexos de maneira eficiente.**
 
-- 💻 Tenho alguns projetos próprios em desenvolvimento. Um deles visa a automatização de certas áreas do Direito;
-
-- 🏢 Meu desejo é contribuir para projetos que me permitam crescer como desenvolvedor enquanto ajudo a solucionar problemas por meio da tecnologia;
-
-- 🍣  Amo comida japonesa;
-
-- 🎓 Curiosidade: Sou formado e pós graduado em Direito. Me apaixonei por programação e decidi trocar de área.
 
 
 
